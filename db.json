@@ -1,13 +1,8 @@
 {
   "todos": [
     {
-      "title": "Learn Fetch",
-      "status": false,
-      "id": 3
-    },
-    {
       "title": "Learn redux store",
-      "status": false,
+      "status": true,
       "id": 4
     }
   ]
